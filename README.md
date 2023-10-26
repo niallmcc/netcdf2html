@@ -1,2 +1,3 @@
 # netcdf2html
-Convert data from netcdf files to HTML
+
+Convert data from netcdf files into HTML
